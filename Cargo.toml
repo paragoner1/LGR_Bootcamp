@@ -1,0 +1,12 @@
+[workspace]
+resolver = "3"
+members = [
+    "constants_and_statics",
+    "exercise_2_return_types",
+    "exercise_3_return_keyword", 	
+    "functions",
+    "hello_world",
+    "primitive_data_types",
+    "variables",
+    ]
+

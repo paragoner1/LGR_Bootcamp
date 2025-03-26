@@ -1,0 +1,26 @@
+{
+    "folders": [
+        {
+            "path": "constants_and_statics"
+        },
+        {
+            "path": "exercise_2_return_types"  
+        },
+        {
+            "path": "exercise_3_return_keyword"  
+        },
+        {
+            "path": "functions"
+        },
+        {
+            "path": "hello_world"
+        },
+        {
+            "path": "primitive_data_types"
+        },
+        {
+            "path": "variables"
+        }
+    ],
+    "settings": {}
+}
