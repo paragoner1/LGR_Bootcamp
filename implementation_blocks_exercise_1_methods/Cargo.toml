@@ -1,0 +1,6 @@
+[package]
+name = "implementation_blocks_exercise_1_methods"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

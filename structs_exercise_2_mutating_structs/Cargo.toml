@@ -1,0 +1,6 @@
+[package]
+name = "structs_exercise_2_mutating_structs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

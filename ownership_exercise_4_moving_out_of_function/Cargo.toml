@@ -1,0 +1,6 @@
+[package]
+name = "ownership_exercise_4_moving_out_of_function"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

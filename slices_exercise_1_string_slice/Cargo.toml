@@ -1,0 +1,6 @@
+[package]
+name = "slices_exercise_1_string_slice"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

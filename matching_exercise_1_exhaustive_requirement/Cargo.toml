@@ -1,0 +1,6 @@
+[package]
+name = "matching_exercise_1_exhaustive_requirement"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

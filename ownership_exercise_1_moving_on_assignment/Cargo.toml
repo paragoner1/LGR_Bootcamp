@@ -1,0 +1,6 @@
+[package]
+name = "ownership_exercise_1_moving_on_assignment"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
