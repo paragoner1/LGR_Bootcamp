@@ -22,8 +22,8 @@ fn main() {
     let a: u8 = 10;//the value of the constant will be inline (MAX_PLAYERS will be replaced by 10)
     let b: u8 = 10;
 
-    let c: &str = CASINO_NAME;
-    let d: &str = CASINO_NAME;
+    //commenting out due to error let c: &str = CASINO_NAME;
+    //uncomment these to see error let d: &str = CASINO_NAME;
 }
 //constants are inlined, so the value of the constant is replaced
 //everywhere it is used, so the value of a and b will be 10, not MAX_PLAYERS
